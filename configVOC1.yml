@@ -127,12 +127,11 @@ system:
         dmrNetId: 1
         voiceChNo:
             - channelNo: 918
-#ChannelNo here must match channelNo above OR the ChannelNo in the other voice Channels
+#ChannelNo here must match channelNo above in this config
               rconAddress: *ZEROTIERIP*
-#Can be set to Zero Tier IP if only using one computer
               rconPort: 9995
               rconPassword: "CHANGEME"
-#Must Match the RCON password you set in this OR the Voice Channels Config
+#Must Match the RCON password you set in this Config
         colorCode: 1
         nac: 13X
 #Replace X with the last digit of your site ID
