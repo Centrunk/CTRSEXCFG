@@ -4,7 +4,7 @@ log:
     fileLevel: 1
     filePath: .
     activityFilePath: .
-    fileRoot: DVM-CC1
+    fileRoot: DVM-VC1
 network:
     enable: true
     id: *PEERID*
