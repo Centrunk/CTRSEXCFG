@@ -126,6 +126,7 @@ system:
         dmrNetId: 1
         voiceChNo:
             - channelNo: 918
+#Must match the channelNo in above
               rconAddress: *ZEROTIERIP*
               rconPort: 9995
               rconPassword: "CHANGEME"
